@@ -2,9 +2,9 @@ package mate
 
 import (
 	"github.com/stretchr/testify/assert"
-	"http-server/internal"
-	mate "http-server/pkg"
 	"log"
+	"mate/internal"
+	"mate/pkg"
 	"net/http"
 	"testing"
 	"time"

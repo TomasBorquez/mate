@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af6da30f-1e82-4197-ba2c-46b6a4e43292" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/cmd/mate/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/mate/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/general_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/general_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="false" />
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../../Program Files/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/go/pkg/mod/github.com/!tomas!borquez/graft@v0.3.0/internal/utils.go" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/go/pkg/mod/github.com/!tomas!borquez/graft@v0.3.0/pkg/watcher.go" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="false" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2k46c1x9xCHcWZzPXxaXMgexgls" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Go Build.build.executor": "Run",
+    "Go Build.debug bootstrap.executor": "Run",
+    "Go Build.go build graft.go.executor": "Debug",
+    "Go Build.go build http-server.executor": "Run",
+    "Go Test.go test ./src.executor": "Debug",
+    "Go Test.go test src.executor": "Debug",
+    "Go Test.go test.executor": "Run",
+    "HTTP Request.todos | #1 (1).executor": "Run",
+    "HTTP Request.todos | #1.executor": "Run",
+    "HTTP Request.todos | #2 (1).executor": "Run",
+    "HTTP Request.todos | #2.executor": "Run",
+    "HTTP Request.todos | #3 (1).executor": "Run",
+    "HTTP Request.todos | #3.executor": "Run",
+    "HTTP Request.todos | #4 (1).executor": "Run",
+    "HTTP Request.todos | #4.executor": "Run",
+    "Makefile Target.Build.executor": "Run",
+    "Makefile Target.Unnamed.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "master",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "C:/Users/Lewboski/Desktop/Programming/projects/mate",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "actions.on.save"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lewboski\Desktop\Programming\projects\http-server" />
+      <recent name="C:\Users\Lewboski\Desktop\Programming\projects\http-server\pkg" />
+      <recent name="C:\Users\Lewboski\Desktop\Programming\projects\http-server\internal" />
+      <recent name="C:\Users\Lewboski\Desktop\Programming\projects\http-server\cmd\mate" />
+      <recent name="C:\Users\Lewboski\Desktop\Programming\projects\http-server\src\test_utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.go test">
+    <configuration name="build" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="mate" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="mate/cmd/mate" />
+      <directory value="$PROJECT_DIR$/src" />
+      <filePath value="$PROJECT_DIR$/cmd/mate/main.go" />
+      <output_directory value="$PROJECT_DIR$/bin" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="mate" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="mate" />
+      <directory value="$PROJECT_DIR$/src" />
+      <filePath value="$PROJECT_DIR$/" />
+      <output_directory value="$PROJECT_DIR$/bin" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <configuration name="todos | #1 (1)" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/todos.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="todos | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/src/todos.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="todos | #2 (1)" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/todos.http" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="todos | #3 (1)" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/todos.http" index="3" requestIdentifier="#3" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="todos | #4 (1)" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/todos.http" index="4" requestIdentifier="#4" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.build" />
+      <item itemvalue="Go Test.go test" />
+      <item itemvalue="HTTP Request.todos | #1 (1)" />
+      <item itemvalue="HTTP Request.todos | #1" />
+      <item itemvalue="HTTP Request.todos | #2 (1)" />
+      <item itemvalue="HTTP Request.todos | #3 (1)" />
+      <item itemvalue="HTTP Request.todos | #4 (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.todos | #4 (1)" />
+        <item itemvalue="HTTP Request.todos | #2 (1)" />
+        <item itemvalue="HTTP Request.todos | #1 (1)" />
+        <item itemvalue="HTTP Request.todos | #3 (1)" />
+        <item itemvalue="HTTP Request.todos | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-33c477a475b1-e0158606a674-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-241.18034.61" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$USER_HOME$/go/pkg/mod/github.com/!tomas!borquez/graft@v0.3.0/pkg/watcher.go</url>
+          <line>12</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/pkg/handler.go</url>
+          <line>284</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

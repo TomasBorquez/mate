@@ -1,22 +1,9 @@
 package mate
 
 import (
-	"bytes"
-	"context"
-	"github.com/a-h/templ"
 	"regexp"
 	"strings"
 )
-
-func TemplToString(component templ.Component) (componentStringified string, renderError error) {
-	var buf bytes.Buffer
-	err := component.Render(context.Background(), &buf)
-	if err != nil {
-		return "", err
-	}
-
-	return buf.String(), nil
-}
 
 func PathToRegexp(path string) (*regexp.Regexp, func(string) map[string]string, error) {
 	escaped := strings.Replace(regexp.QuoteMeta(path), `\:`, `:`, -1)

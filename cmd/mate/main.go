@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/TomasBorquez/logger"
-	"http-server/pkg"
+	"mate/pkg"
 )
 
 func main() {
